@@ -18,7 +18,7 @@ organizations:
   url: "https://www.wur.nl/en/Research-Results/Research-Institutes/Economic-Research.htm"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Modular Applied GeNeral Equilibrium Tool.
+bio:
 
 interests:
 - Biobased economy
