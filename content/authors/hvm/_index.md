@@ -7,7 +7,7 @@ authors:
 - hvm
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Chief economist at WEcR and Special Professor at Wageningen University 
