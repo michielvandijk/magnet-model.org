@@ -1,0 +1,87 @@
+---
+title: "MAGNET website instructions"
+author: "Michiel van Dijk"
+date: "`r Sys.Date()`"
+output: pdf_document
+urlcolor: blue
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(here)
+library(readr)
+library(knitr)
+library(kableExtra)
+```
+
+# Introduction
+
+In order to share information about the MAGNET model, related publications, projects and blogs, and team members, we want to create a new MAGNET website. The proposed website will be build using a combination of Hugo and RStudio. We have chosen for this approach over other options, such as Wordpress, because it is relatively simple to create an 'academic' website that has all the basic features to showcase our work, in particular:
+
+- Overview of publications that can easily be updated
+- Search function
+- Tags
+- Overview of team members
+- Possibility to easily add equations
+
+Furthermore, building and updating the website resembles working with MAGNET as it involves (basic) coding and versioning and therefore should fit very well with DNA of the MAGNET team. More specifically, to build the website, one needs to use Markdown language is used, which resembles LATEX (but much simpler), which is subsequently rendered into a html that produces the website. More information on the approach can be found here:
+
+- [Demo of academic website](https://themes.gohugo.io/theme/academic/)
+- [How to build an academic site with Hugo](https://wowchemy.com/)
+- [How to build an Hugo website using the R Blogdown package](https://bookdown.org/yihui/blogdown/)
+- [Example of personal website build using the proposed approach](https://www.michielvandijk.org/)
+- [Draft MAGNET website](https://magnet-model.netlify.app/)
+
+
+# Ways of working
+
+To start, we propose that 3-4 MAGNET team members will be responsible for the technical part of the website, i.e. uploading content, versioning updates and creating the website. We would appreciate if all MAGNET team members could deliver basic content in a specific format (see below), such as a mini-biography, list of MAGNET-related publications and summaries from ongoing and past (key) projects to create a first version of the website. Note that, in principle each team member is able to update the MAGNET website after installing software and setting up the system. Please contact me if you are interested to do this.
+
+Apart from the basic information about team members and projects, it is essential we add a description of the MAGNET model and the MAGNET consortium. We need to decide how and by whom this will be done.  
+
+In addition, we need to think about a way to keep the website up-to-date. One option would be to continuously update the website, for example, by adding project summaries when a projects start, adding new publications after they are published and preparing new blog posts to highlight recent findings or innovations. Another option would be to update the website every year at a fixed moment, e.g. after the summer holidays. A combination of the two is also possible. This is up for discussion with the team.
+
+
+# What to prepare?
+
+To create a first version of the website, we need to following four files from each team member (also see table):
+
+- *Personal information.* All personal information (except for the picture) is stored in _index.md. Please update the following items only: (1) title, (2) role, (3) interests, (4) education, (5) social (remove the icons that are not relevant), (6) cv (replace initials in filename), (7) biography (add your own). The files uses Markdown file which is a general markup language, which can be used to add layout text, add equations, etc For examples see [here](https://themes.gohugo.io//theme/academic/post/writing-technical-content/). For a cheatsheet with the main options see [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+- *Picture/avatar.* Save your picture as 'avatar.jpg'
+
+- *CV.* Save your cv as '[initials].pdf'.
+
+- *Publications.* We want to create one file with all MAGNET related publications, which can be uploaded to the website. Reference software such as Mendeley, Endnote or Zotero can save a reference list in bibtex (.bib) format. In case you use this type of software please save the reference list as [initials].bib (replace the initials). In case you are not using reference software, provide a Word file but, where possible, add the DOI of each publication. 
+
+```{r echo = FALSE, message = FALSE, warning = FALSE}
+website_files <- read_csv(here("team_input/_template/website_files.csv"))
+kable(website_files, booktabs = TRUE, 
+      linesep = "", 
+      caption = "MAGNET website files needed for each team member") %>%
+  kable_styling(latex_options =c("hold_position")) %>%
+  column_spec(1:3.,width = c("4cm", "2.5cm", "8cm"))
+  
+```
+
+Please store the requested file in the WEBSITE 2020 folder on the sharepoint. For the link click [here](https://sharepoint.wur.nl/sites/MAGNET/_layouts/15/start.aspx#/SitePages/Home.aspx?RootFolder=%2Fsites%2FMAGNET%2FShared%20Documents%2FWEBSITE%202020&FolderCTID=0x012000EA99BD9A9D6F634DA6A91C2575D3647C&View=%7B90D00A8E%2D9A44%2D4ABA%2DA606%2DF810D4BB1007%7D). We will use this location to collect all information for the website.  
+
+To prepare your files, do the following:
+
+- Create a new subfolder using your own initials as folder name in the `team` subfolder (e.g. mvd in my case)
+- Copy the files from the `_template` folder to your own folder.
+- Update the `_index.md` file and replace the `avatar.jpg`, `initials.pdf` and `initials.bib` files
+
+# Questions
+
+Please do not hesitate to contact me if anything is unclear, you want to update the MAGNET website yourself using Hugo/RStudio or if you want to create your own personal website.
+
+Michiel
+
+michiel.vandijk@wur.nl
++31 70 3358 341
+
+
+
+
