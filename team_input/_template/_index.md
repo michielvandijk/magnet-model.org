@@ -25,19 +25,12 @@ interests:
 education:
   courses:
   - course: PhD in Technology and Development Studies
-    institution: Faculty of Technology Management, Eindhoven University of Technology, the Netherlands
-    year: 2004
-  - course: MSc in Quantitative Economics
-    institution: Faculty of Economics, Maastricht University, the Netherlands
-    year: 1999education:
-  courses:
-  - course: PhD in Technology and Development Studies
-    institution: Faculty of Technology Management, Eindhoven University of Technology, the Netherlands
+    institution: Faculty of Technology Management, Eindhoven University of Technology, the  Netherlands
     year: 2004
   - course: MSc in Quantitative Economics
     institution: Faculty of Economics, Maastricht University, the Netherlands
     year: 1999
-
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
