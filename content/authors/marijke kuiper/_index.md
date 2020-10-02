@@ -58,7 +58,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/mk.pdf
+  link: cv/marijke kuiper.pdf
 
 # Email for Contact widget or Gravatar
 email: ""

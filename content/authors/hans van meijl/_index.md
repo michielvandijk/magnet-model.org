@@ -55,7 +55,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/hvm.pdf
+  link: cv/hans van meijl.pdf
 
 # Email for Contact widget or Gravatar
 email: ""

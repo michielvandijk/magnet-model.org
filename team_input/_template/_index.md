@@ -63,10 +63,11 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
+  
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/mvd.pdf
+  link: cv/michiel van dijk.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
