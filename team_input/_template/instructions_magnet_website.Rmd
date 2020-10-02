@@ -69,7 +69,7 @@ Please store the requested file in the WEBSITE 2020 folder on the sharepoint. Fo
 
 To prepare your files, do the following:
 
-- Create a new subfolder using your own (lowercase) initials as folder name in the `team` subfolder (e.g. mvd in my case)
+- Create a new subfolder using your full name (lowercase) as folder name in the `team` subfolder. Note that the name of this folder will be used to make automatic links with your name in the publications list. Please use the version you are use for most of your publications (e.g. full name without middle name initials).
 - Copy the files from the `_template` folder to your own folder.
 - Update the `_index.md` file and replace the `avatar.jpg`, `initials.pdf` and `initials.bib` files
 
