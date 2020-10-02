@@ -1,5 +1,5 @@
 Item,File,Note
 Personal information,_index.md,"Flat text file that can be opened with notepad, Word, etc. "
 Picture/avatar,avatar.jpg,Make sure your face is more or less in the middle
-CV,cv.pdf,Layout is free
-MAGNET publications,[initials].bib,"Bibtex file that can be created with Zotero, Mendeley, Endnote, etc."
+CV,[lowercase initials].pdf,Layout is free
+MAGNET publications,[lowercase initials].bib,"Bibtex file that can be created with Zotero, Mendeley, Endnote, etc."

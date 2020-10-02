@@ -3,7 +3,7 @@ title: "Risk of increased food insecurity under stringent global climate change 
 authors: 
 - Tomoko Hasegawa
 - Shinichiro Fujimori
-- Petr Havl\'ik
+- Petr Havlik
 - Hugo Valin
 - Benjamin Leon Bodirsky
 - Jonathan C. Doelman
@@ -35,7 +35,7 @@ tags: []
 categories: []
 featured: false
 url_pdf: ""
-url_pdf: ""
+url_pdf: "http://www.nature.com/articles/s41558-018-0230-x"
 url_code: ""
 url_dataset: ""
 url_poster: ""

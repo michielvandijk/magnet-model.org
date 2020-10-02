@@ -25,7 +25,7 @@ In order to share information about the MAGNET model, related publications, proj
 - Overview of team members
 - Possibility to easily add equations
 
-Furthermore, building and updating the website resembles working with MAGNET as it involves (basic) coding and versioning and therefore should fit very well with DNA of the MAGNET team. More specifically, to build the website, one needs to use Markdown language is used, which resembles LATEX (but much simpler), which is subsequently rendered into a html that produces the website. More information on the approach can be found here:
+Furthermore, building and updating the website resembles working with MAGNET as it involves (basic) coding and versioning and therefore should fit very well with DNA of the MAGNET team. More specifically, to build the website, one needs to use Markdown language, which resembles LATEX (but much simpler), which is subsequently rendered into a html that produces the website. More information on the approach can be found here:
 
 - [Demo of academic website](https://themes.gohugo.io/theme/academic/)
 - [How to build an academic site with Hugo](https://wowchemy.com/)
@@ -47,13 +47,13 @@ In addition, we need to think about a way to keep the website up-to-date. One op
 
 To create a first version of the website, we need to following four files from each team member (also see table):
 
-- *Personal information.* All personal information (except for the picture) is stored in _index.md. Please update the following items only: (1) title, (2) role, (3) interests, (4) education, (5) social (remove the icons that are not relevant), (6) cv (replace initials in filename), (7) biography (add your own). The files uses Markdown file which is a general markup language, which can be used to add layout text, add equations, etc For examples see [here](https://themes.gohugo.io//theme/academic/post/writing-technical-content/). For a cheatsheet with the main options see [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+- *Personal information.* All personal information (except for the picture) is stored in _index.md. Please update the following items only: (1) title, (2) role, (3) interests, (4) education, (5) social (remove the entries that are not relevant for you, e.g. linkedin), (6) cv (replace initials in filename), (7) biography (add your own). The files uses Markdown file which is a general markup language, which can be used to add layout text, add equations, etc For examples see [here](https://themes.gohugo.io//theme/academic/post/writing-technical-content/). For a cheatsheet with the main options see [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 - *Picture/avatar.* Save your picture as 'avatar.jpg'
 
-- *CV.* Save your cv as '[initials].pdf'.
+- *CV.* Save your cv as '[lowercase initials].pdf'.
 
-- *Publications.* We want to create one file with all MAGNET related publications, which can be uploaded to the website. Reference software such as Mendeley, Endnote or Zotero can save a reference list in bibtex (.bib) format. In case you use this type of software please save the reference list as [initials].bib (replace the initials). In case you are not using reference software, provide a Word file but, where possible, add the DOI of each publication. 
+- *Publications.* We want to create one file with all MAGNET related publications, which can be uploaded to the website. Reference software such as Mendeley, Endnote or Zotero can save a reference list in bibtex (.bib) format. In case you use this type of software please save the reference list as [lowercase initials].bib (replace the initials). In case you are not using reference software, provide a Word file but, where possible, add the DOI of each publication. 
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE}
 website_files <- read_csv(here("team_input/_template/website_files.csv"))
@@ -69,9 +69,12 @@ Please store the requested file in the WEBSITE 2020 folder on the sharepoint. Fo
 
 To prepare your files, do the following:
 
-- Create a new subfolder using your own initials as folder name in the `team` subfolder (e.g. mvd in my case)
+- Create a new subfolder using your own (lowercase) initials as folder name in the `team` subfolder (e.g. mvd in my case)
 - Copy the files from the `_template` folder to your own folder.
 - Update the `_index.md` file and replace the `avatar.jpg`, `initials.pdf` and `initials.bib` files
+
+Regularly (e.g. every six months) we will copy these files to right location in the website folder after which the website will be automatically updated. We can easily make additional updates so please inform us if you have made changes to your profile (or other parts of the website) and want these to be copied to the website. 
+
 
 # Questions
 

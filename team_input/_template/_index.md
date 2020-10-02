@@ -39,6 +39,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:michiel.vandijk@wur.nl
+- icon: university
+  icon_pack: fas
+  link: https://www.wur.nl/en/Persons/Michiel-dr.-M-Michiel-van-Dijk.htm
+- icon: fingerprint
+  icon_pack: fas
+  link: https://research.wur.nl/en/persons/michiel-van-dijk
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Michiel_Van_Dijk
@@ -53,11 +59,10 @@ social:
   link: https://github.com/michielvandijk
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
-
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
