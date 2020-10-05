@@ -53,7 +53,7 @@ To create a first version of the website, we need to following four files from e
 
 - *CV.* Save your cv as '[your full name].pdf' (see note on which name to use below!).
 
-- *Publications.* We want to create one file with all MAGNET related publications, which can be uploaded to the website. Reference software such as Mendeley, Endnote or Zotero can save a reference list in bibtex (.bib) format. In case you use this type of software please save the reference list as '[your full name].bib'. In case you are not using reference software, provide a Word file but, where possible, add the DOI of each publication. 
+- *Publications.* We want to create one file with all MAGNET related publications, which can be uploaded to the website. We already prepared a reference list, which can be found on the [website](https://magnet-model.netlify.app/publication/). Please send us any publications that are still missing. Reference software such as Mendeley, Endnote or Zotero can save a reference list in bibtex (.bib) format. In case you use this type of software please save the reference list as '[your full name].bib'. In case you are not using reference software, provide a Word file but, where possible, add the DOI of each publication.  
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE}
 website_files <- read_csv(here("team_input/_template/website_files.csv"))
