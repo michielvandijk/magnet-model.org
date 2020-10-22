@@ -75,7 +75,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- WUR researchers
+- Researchers
 
 ---
 I am a recent edition at the MAGNET team, and one of the few non-economists! Before starting at WEcR (september 1st 2020) I worked for four years at the Planbureau voor de Leefomgeving, where I was part of the IMAGE team. Within the IMAGE framework (and integrated assessment model), I focusses on the land use component of the model focusing on, amongst others, biodiversity protection and it's relation to food security, as well as agricultural producitivity. For this we employed the MAGNET model for the agro-economic assessments, the results of which were inpu for the biophysical, gridded IMAGE-land module. I spent quite some time trying to understand and improve the linkages between these models, and learned quite a bit about MAGNET while doing so.

@@ -6,7 +6,7 @@ title: Ewa Tabeau
 superuser: false
 
 # Role/position/tagline
-role: Senior Researcher/Senior Project Leader at Wageningen Economic Research, Wageningen University
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
