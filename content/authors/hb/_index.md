@@ -6,7 +6,7 @@ title: Heleen Bartelings
 superuser: false
 
 # Role/position/tagline
-role: Researcher at Wageningen Economic Research.
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
