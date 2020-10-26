@@ -30,8 +30,8 @@ education:
     year: 1979-1981
   - course: Msc. in economics; field econometrics
     institution: Warsaw School of Economics, Warsaw, Poland
-    year: 1974-1979
-
+    year: 1974 -1979
+  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

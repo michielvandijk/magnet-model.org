@@ -6,7 +6,7 @@ title: Heleen Bartelings
 superuser: false
 
 # Role/position/tagline
-role: Researcher
+role: Researcher at Wageningen Economic Research.
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -34,6 +34,7 @@ education:
   - course: MSc Agricultural and environmental economics
     institution: Wageningen University, Wageningen (The Netherlands) 
     year: 1998
+
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

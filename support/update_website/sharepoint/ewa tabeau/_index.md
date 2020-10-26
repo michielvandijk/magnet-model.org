@@ -6,7 +6,7 @@ title: Ewa Tabeau
 superuser: false
 
 # Role/position/tagline
-role: Senior Researcher
+role: Senior Project Leader
 
 # Organizations/Affiliations to show in About widget
 organizations:

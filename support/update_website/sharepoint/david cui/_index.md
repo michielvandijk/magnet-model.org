@@ -23,7 +23,6 @@ interests:
 - Food and nutrition security
 - International trade
 
-
 # Education to show in About widget
 education:
   courses:

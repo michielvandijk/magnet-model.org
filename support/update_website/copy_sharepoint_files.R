@@ -44,6 +44,7 @@ options(digits=4)
 # be fixed in an update of the wowchemy template) we use initials for the folder name
 team_names <- read_csv(here("support/update_website/team_names.csv"))
 
+
 # function to copy files into right location per team member folder
 copy_team_member <- function(folder, out = here("content/authors")){
   blogdown::stop_server()
