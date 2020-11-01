@@ -3,7 +3,6 @@ title: Integration of R and website
 linktitle: Integration of R and website
 date: 11/1/2020
 type: book
-math: true
 weight: 1
 ---
 
@@ -41,4 +40,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 ## Equation example - not working yet in Rmarkdown... need to check
 
-`\(\hat{\lambda}=1.02\)`
+with backticks
+`$S_n = \sum_{i=1}^n X_i$`
+
+without
+`\(S_n = \sum_{i=1}^n X_i\)`
