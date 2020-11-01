@@ -9,9 +9,27 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "/post"
+  name = "Themes"
+  url = "/themes"
+  identifier = "themes"
   weight = 20
+
+[[main]]
+  name = "Food security"
+  url = "/themes/food-security"
+  parent = "themes"
+  weight = 10
+
+[[main]]
+  name = "Bio based economy"
+  url = "/themes/bio-based-economy"
+  parent = "themes"
+  weight = 20
+
+#[[main]]
+#  name = "Blog"
+#  url = "/post"
+#  weight = 20
 
 [[main]]
   name = "Projects"
