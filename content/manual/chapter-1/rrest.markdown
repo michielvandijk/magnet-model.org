@@ -7,6 +7,13 @@ type: book
 weight: 1
 ---
 
+<script src="//yihui.org/js/math-code.js"></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script async
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
 
 
 ## R Markdown
@@ -46,3 +53,9 @@ with backticks
 
 without
 `\(S_n = \sum_{i=1}^n X_i\)`
+
+with backticks
+`$$S_n = \sum_{i=1}^n X_i$$`
+
+without
+`$$S_n = \sum_{i=1}^n X_i$$`
