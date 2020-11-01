@@ -2,6 +2,7 @@
 title: Integration of R and website
 linktitle: Integration of R and website
 date: 11/1/2020
+math: true
 type: book
 weight: 1
 ---
