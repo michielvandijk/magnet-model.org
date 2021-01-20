@@ -41,10 +41,10 @@
   url = "/publication"
   weight = 40
 
-[[main]]
-  name = "Manual"
-  url = "/manual"
-  weight = 50
+#[[main]]
+#  name = "Manual"
+#  url = "/manual"
+#  weight = 50
 
 [[main]]
   name = "Team"
