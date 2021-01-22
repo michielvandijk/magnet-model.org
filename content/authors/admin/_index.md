@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-interests:
-- Biobased economy
-- Food and nutrition security
-- Trade
+#interests:
+#- Biobased economy
+#- Food and nutrition security
+#- Trade
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

@@ -9,22 +9,32 @@
   weight = 10
 
 [[main]]
-  name = "Themes"
-  url = "/themes"
-  identifier = "themes"
+  name = "Model"
+  url = "/model"
   weight = 20
 
 [[main]]
-  name = "Food security"
-  url = "/themes/food-security"
-  parent = "themes"
-  weight = 10
+  name = "Modules"
+  url = "/modules"
+  weight = 30
 
-[[main]]
-  name = "Bio based economy"
-  url = "/themes/bio-based-economy"
-  parent = "themes"
-  weight = 20
+#[[main]]
+#  name = "The Themes"
+#  url = "/themes"
+#  identifier = "themes"
+#  weight = 20
+
+#[[main]]
+#  name = "Food security"
+#  url = "/themes/food-security"
+#  parent = "themes"
+#  weight = 10
+
+#[[main]]
+#  name = "Bio based economy"
+#  url = "/themes/bio-based-economy"
+#  parent = "themes"
+#  weight = 20
 
 #[[main]]
 #  name = "Blog"
