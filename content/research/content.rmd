@@ -12,11 +12,18 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
+output:
+  html_document:
+    toc: true
+    toc_float: true
+
 title: Research
 subtitle:
 
 design:
   columns: "1"
+  
+  
 ---
 
 MAGNET has the ability to combine generally separate strands of research in a flexible and coherent manner. The model is unique in comprising food security, sustainability and inclusiveness in a single economy-wide framework. In contrast to partial agri-food models MAGNET covers income feedback loops and the full (bio)economy, thus capturing feedback between primary and industrial sectors beyond the grasp of partial models (Banse et al. 2011, Van Meijl et al. 2018). This wider coverage comes at the costs of technological detail, which is addressed by allowing a link to partial models like IMAGE and GLOBIOM, to exploit each other’s comparative advantage (van Meijl et al. 2006, Doelman et al. 2018, Frank et al. 2019). MAGNET can also be combined with technical models like TIMER or MARKAL (Wicke et al. 2015, van Meijl et al. 2018), capturing adjustments in cost structures as well as smoothing changes in technology due to economic feedback loops not accounted for in these technology focussed models.

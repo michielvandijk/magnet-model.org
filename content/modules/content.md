@@ -18,14 +18,16 @@ subtitle:
 design:
   columns: "1"
 ---
-
-{{< toc >}}
-
 MAGNET has a modular structure, with some modules required and some optional in each model run (Figure 1). Users can select from a number of available modules summarized below.
 
 *Figure 1: Running MAGNET: Compulsory versus Optional Modules*
 
 ![module](running_magnet.png)
+
+<details>
+  <summary>List of all modules</summary>
+{{< toc >}}
+</details>
 
 
 ## Module 1: Flexible production structure
