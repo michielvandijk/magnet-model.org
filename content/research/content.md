@@ -12,10 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 15
 
-output:
-  html_document:
-    toc: true
-    toc_float: true
+toc: true
 
 title: Research
 subtitle:
