@@ -54,6 +54,6 @@ email: ""
 #- Researchers
 ---
 
-MAGNET (Modular Applied GeNeral Equilibrium Tool) is a global general equilibrium model. A distinguishing feature of the model is its modular structure, which allows the model to be tailored to the research question at hand. MAGNET has been widely used to simulate the impacts of agricultural, trade, land and bioenergy policies on the global economy with a particular focus on the impacts on land use, agricultural prices, nutrition and household food security.
+MAGNET (Modular Applied GeNeral Equilibrium Tool) is a global general equilibrium model. A distinguishing feature of the model is its modular structure, which allows the model to be tailored to the research question at hand. MAGNET has been widely used to simulate the impacts of agricultural, trade, land and bioenergy policies on the global economy with a particular focus on the impacts on land use, agricultural prices, nutrition and household food security. It is listed in the [MIDAS](https://web.jrc.ec.europa.eu/policy-model-inventory/#factsheet/model/172), the inventory of models used by the European Commission for impact assessment.
 
-The MAGNET consortium, includes [Wageningen Economic Research (lead)](https://www.wur.nl/en/Research-Results/Research-Institutes/Economic-Research.htm), the Institute for Prospective Technological Studies (IPTS), which is an institute of the European Commission's Joint Research Centre (JRC) and the Thünen-Institute (TI).
+The MAGNET consortium, includes [Wageningen Economic Research (lead)](https://www.wur.nl/en/Research-Results/Research-Institutes/Economic-Research.htm), the European Commission's Joint Research Centre (JRC) and the Thünen-Institute (TI).
