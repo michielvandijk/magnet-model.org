@@ -1,4 +1,4 @@
-bibfile <- "convert_bibtex/magnet.bib"
+bibfile <- "support/convert_bibtex/magnet.bib"
 outfold   <- "convert_bibtex"
 
 bibtex2academic(bibfile  = bibfile,

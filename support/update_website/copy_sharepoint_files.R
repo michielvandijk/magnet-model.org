@@ -23,7 +23,7 @@ p_load("here", "tidyverse", "readxl", "stringr", "scales", "glue")
 # R options
 options(scipen=999) # Surpress scientific notation
 options(digits=4)
-
+options(viewer = NULL)
 
 # ========================================================================================
 # COPY SHAREPOINT FILES ------------------------------------------------------------------
