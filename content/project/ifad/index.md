@@ -39,17 +39,14 @@ The IFAD Rural Development Report 2021 (RDR 2021)  focuses on transforming food 
 For the this study we refined the representation of labour in MAGNET, moving from two to 5 occupation based labour types. Making the number of workers per type and sector explicit allowed new measures of employment, wages and wage income inequality define by a labour based GINI. Combined with existing variables in MAGNET we defined 28 food system indicators across 4 dimensions (nutrition, inclusiveness, sustainability, economy)
 
 ![TableA1.1](IFAD_RDR2021_TableA1.1.png "TableA1.1")
-*Source: Annex 1, IFAD Rural Development Report 2021*
+*Source: [Annex 1, IFAD Rural Development Report 2021](https://www.ifad.org/documents/38714170/43704363/rdr2021_annex1.pdf/f412bd1e-8e70-b254-45c9-e01f2f7ec1df?t=1631621446115)*
 
 Average trends on these food system indicators for low- and middle income countries in the Business as Usual (BaU) baseline scenario (2019-2050) can be summarized in a spider diagram, highlighting for each dimension the core trends. 
  
 ![FigureA1.1](IFAD_RDR2021_FigureA1.1.png "FigureA1.1")
-*Source: Annex 1, IFAD Rural Development Report 2021*
+*Source: [Annex 1, IFAD Rural Development Report 2021](https://www.ifad.org/documents/38714170/43704363/rdr2021_annex1.pdf/f412bd1e-8e70-b254-45c9-e01f2f7ec1df?t=1631621446115)*
 
 Similar spider diagram summaries compare 7 counterfactual scenarios to developments in the BaU. These counterfactual scenarios address interventions in specific parts of the food system aligned with the RDR 2021 chapters.  A correlation analysis on the results is used to highlight patterns trade-offs an synergies not easy to detect from the large number of indicators and scenarios, selecting 3 key indicators for each food system domain.
-
-<insert IFAD_RDR2021_FigureA1.9.png >
-Source: Annex 1, IFAD Rural Development Report 2021
 
 ![FigureA1.9](IFAD_RDR2021_FigureA1.9.png "FigureA1.9")
 *Source: [Annex 1, IFAD Rural Development Report 2021](https://www.ifad.org/documents/38714170/43704363/rdr2021_annex1.pdf/f412bd1e-8e70-b254-45c9-e01f2f7ec1df?t=1631621446115)*

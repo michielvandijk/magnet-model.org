@@ -1,7 +1,7 @@
 ---
 title: BE-BASIC
 summary: 
-tags: ["biobased economy", "current research"]
+tags: ["biobased economy"]
 date: "2020-08-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -34,7 +34,7 @@ slides: ""
 
 ---
 
-The Biotechnology based Ecologically Babiolanced Sustainable Industrial Consortium (BE-BASIC) aims to develop industrial biobased solutions to build a sustainable society. The MAGNET model is used to assess the macro-economic and food security impacts of a shift towards a bio-based society to 2050.
+The Biotechnology based Ecologically Balanced Sustainable Industrial Consortium (BE-BASIC) aims to develop industrial biobased solutions to build a sustainable society. The MAGNET model is used to assess the macro-economic and food security impacts of a shift towards a bio-based society to 2050.
 
 To enable an assessment of the macro-economic and food security impacts of biomass use the MAGNET CGE model needs to be expanded and updated. Firstly, the chemical-energy sectors are disaggregated and the linkages between the these sectors and the agricultural and forestry sectors are improved. MAGNET also is updated with greenhouse gas emissions and climate change policies. Secondly, the processes of technical change (innovation, diffusion, learning) in MAGNET are improved. The choice between fossil based and biobased inputs is now modelled endogenously and MAGNET now also determines the source of biomass supply.
 

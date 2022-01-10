@@ -1,7 +1,7 @@
 ---
 title: FOODSECURE
 summary: 
-tags: ["food security", "current research"]
+tags: ["food security"]
 date: "2020-08-16T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
