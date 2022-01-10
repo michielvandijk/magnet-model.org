@@ -57,6 +57,6 @@ As none of the columns has only green markers signalling synergies the main take
 
 MAGNET team:
 
-[Marijke Kuiper](/author/marijke-kuiper/), Monika van den Bos Verma
+[Marijke Kuiper](/author/marijke-kuiper/), [Monika van den Bos Verma](/author/(monika-verma/)
 
 	 
