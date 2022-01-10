@@ -1,0 +1,31 @@
+---
+title: Economic losses from soil erosion by water
+author: Michiel van Dijk
+date: '2022-01-10'
+slug: Economic-losses-from-soil-erosion-by-water
+categories: []
+tags:
+  - MAGNET
+  - climate change
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-26T14:54:28+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+Soil isn't the only thing that we are losing from erosion. A new study estimates $8 billion in global economic losses caused by soil erosion reducing crop yields and increasing water usage.
+
+Climate change is making soil erosion worse. And certain countries are paying the price.
+
+Under climate change, there are many more dry days interspersed by heavy rains. This leads to conditions where soil is more easily washed away during the strong rains. Land use change by humans exacerbates soil erosion by water, often by clearing out vegetation that help hold soil together. Steep surfaces (think hills) can also contribute to the problem.
+
+Researchers from the European Union Joint Research Centre coupled two models, RUSLE and MAGNET, to estimate economic losses from soil erosion by water. They found that $8 billion is lost annually from global GDP. Worldwide, food production is reduced by 33.7 million tons of food. The study is unique in that the researchers were able to capture losses from structural economic change as a result of shifts in primary resources, like land quality. Previous studies simply calculated crop less and multiplied it by market values. Moreover, this study was the first to apply this method on a global scale.
+
+Source: [Forbes](https://www.forbes.com/sites/linhanhcat/2019/05/21/soil-erosion-washes-away-8-billion/?sh=2c5fe1d75b6c)
+
+
