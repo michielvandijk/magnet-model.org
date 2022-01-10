@@ -69,7 +69,7 @@ abstract: "Increased efforts are required to prevent further losses to terrestri
 summary: ""
 tags: []
 categories: []
-featured: true
+featured: false
 url_pdf: ""
 url_pdf: "http://www.nature.com/articles/s41586-020-2705-y"
 url_code: ""

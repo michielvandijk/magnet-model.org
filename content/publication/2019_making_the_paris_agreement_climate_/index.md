@@ -6,7 +6,7 @@ authors:
 - Andrzej Tabeau
 - Hans van Meijl
 date: "2019-01-01"
-doi: "10.1016/J.GFS.2019.04.003"
+doi: "10.1016/j.gfs.2019.04.003"
 publishDate: ""
 publication_types: ["2"]
 publication: "***Global Food Security***, 23, pp. 93--103"
@@ -17,7 +17,7 @@ tags: []
 categories: []
 featured: false
 url_pdf: ""
-url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S2211912418301263"
+url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S2211912418301263 https://linkinghub.elsevier.com/retrieve/pii/S2211912418301263"
 url_code: ""
 url_dataset: ""
 url_poster: ""
