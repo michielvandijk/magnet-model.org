@@ -55,8 +55,6 @@ Primary productions in production through reducing yield gaps, reducing food los
 
 As none of the columns has only green markers signalling synergies the main take-aways from this study is that (i) a food system transformation cannot avoid trade-offs; and (ii) trade-off and synergies can be shaped through intervention design stressing the need for careful and context specific policy design. MAGNET simulations can support such context specific policy designs as the detailed results in the background paper highlight opposing impacts across different country groups. For more information, see the [background report](https://www.ifad.org/documents/38714170/43704363/rdr2021_sinergies.pdf/a40f6da5-0a67-5b73-9e60-e2efc4e7a82b?t=1631621453329).
 
-MAGNET team:
-
-[Marijke Kuiper](/author/marijke-kuiper/), [Monika van den Bos Verma](/author/monika-verma/)
+Contact: [Marijke Kuiper](/author/marijke-kuiper/), [Monika van den Bos Verma](/author/monika-verma/)
 
 	 

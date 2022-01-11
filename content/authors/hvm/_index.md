@@ -18,7 +18,12 @@ bio: Wageningen Economic Research.
 
 # Interests to show in About widget
 interests:
-- ADD
+- Agriculture
+- Trade and climate policies
+- Technological change
+- Circularity
+- Biobased economy
+- Food and nutrition security
 
 # Education to show in About widget
 education:

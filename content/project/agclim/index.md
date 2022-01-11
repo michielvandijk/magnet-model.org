@@ -49,5 +49,6 @@ The first study analyses the global impacts of climate change on agricultural pr
 
 Scenario results were compared between the models involved according to a reporting template.
 
-Publications:
-[Van Meijl et al. (2018)](/publication/2018_comparing_impacts_of_climate_change/)
+Contact: [Hans van Meijl](/author/hans-van-meijl/)
+
+Publications: [Van Meijl et al. (2018)](/publication/2018_comparing_impacts_of_climate_change/)
