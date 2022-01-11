@@ -4,7 +4,7 @@ author: Michiel van Dijk
 date: '2022-01-11'
 slug: forestnavigator-proposal-has-reached-the-stage-of-grant-agreement-preparation
 categories: []
-tags: []
+tags: ["forestry", "climate change"]
 subtitle: ''
 summary: ''
 authors: []
@@ -16,3 +16,5 @@ image:
   preview_only: no
 projects: []
 ---
+
+TEXT TO BE ADDED
