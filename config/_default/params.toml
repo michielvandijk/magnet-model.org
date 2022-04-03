@@ -100,7 +100,7 @@ address = {street = "Prinses Beatrixlaan 582", city = "The Hague", postcode = "2
 coordinates = {latitude = "52.079072", longitude = "4.336493"}
 
 # Directions for visitors to locate you.
-directions = "Ask the reception at the ground floor"
+directions = "Ask the reception at the ground floor for the Wageningen Economic Research office"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

@@ -1,5 +1,5 @@
 ---
-title: "MAGNET website instructions"
+title: "How to provide input to the MAGNET website"
 author: "Michiel van Dijk"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -17,7 +17,7 @@ library(kableExtra)
 
 # Introduction
 
-In order to share information about the MAGNET model, related publications, projects and blogs, and team members, we want to create a new MAGNET website. The proposed website will be build using a combination of Hugo and RStudio. We have chosen for this approach over other options, such as Wordpress, because it is relatively simple to create an 'academic' website that has all the basic features to showcase our work, in particular:
+In order to share information about the MAGNET model, related publications, projects and blogs, and team members, we created a new MAGNET website. The website is built using a combination of Hugo and RStudio. We have chosen for this approach over other options, such as Wordpress, because it is relatively simple to create an 'academic' website that has all the basic features to showcase our work, in particular:
 
 - Overview of publications that can easily be updated
 - Search function
@@ -34,16 +34,62 @@ Furthermore, building and updating the website resembles working with MAGNET as 
 - [Draft MAGNET website](https://magnet-model.netlify.app/)
 
 
-# Ways of working
+# Types of input requested from MAGNET team members
 
-To start, we propose that 3-4 MAGNET team members will be responsible for the technical part of the website, i.e. uploading content, versioning updates and creating the website. We would appreciate if all MAGNET team members could deliver basic content in a specific format (see below), such as a mini-biography, list of MAGNET-related publications and summaries from ongoing and past (key) projects to create a first version of the website. Note that, in principle each team member is able to update the MAGNET website after installing software and setting up the system. Please contact me if you are interested to do this.
+Four types of input are requested from the team members (click to go to the website):
 
-Apart from the basic information about team members and projects, it is essential we add a description of the MAGNET model and the MAGNET consortium. We need to decide how and by whom this will be done.  
+- [Ongoing and past research projects](https://www.magnet-model.eu/research/)
+- [Team member entry](https://www.magnet-model.eu/team/)
+- [Publications](https://www.magnet-model.eu/publication/)
+- [News](https://www.magnet-model.eu/post/)
 
-In addition, we need to think about a way to keep the website up-to-date. One option would be to continuously update the website, for example, by adding project summaries when a projects start, adding new publications after they are published and preparing new blog posts to highlight recent findings or innovations. Another option would be to update the website every year at a fixed moment, e.g. after the summer holidays. A combination of the two is also possible. This is up for discussion with the team.
+In all four cases, information can very easily supplied by adding (mostly already existing) information to a very simple text template. More details on how to do this are presented below. The templates can be found on the MAGNET sharepoint in the templates folder: `MAGNET - Documents\6 - MAGNET website\templates`
 
 
-# What to prepare?
+## Ongoing and past research projects
+
+The website shows summaries of ongoing and past research projects, which are meant to showcase our work. In most cases the content can be copied from project proposals, interim reports of deliverables (including journal articles). Preferably at least one key image is added that best describes the project. To add a new project, please provide/do the following:
+
+- Create a new subfolder on the sharepoint: `MAGNET - Documents\6 - MAGNET website\_projects_to_be_added`. Please use a short name without capitals and instead of spaces use '_'.
+- Fill out the project template file that can be found here: `MAGNET - Documents\6 - MAGNET website\templates\projects\index.md`and save it in the project folder you just created. Please do NOT change the name of the `index.md` file - it has to be named index.md. *.md files are text files that can edited with Notepad, Word or simular word processing software. The minimum content of the file is the title and an abstract but in case it is relevant also please provide the name of a team member to contact for more information and relevant publications - see example in the template file. 
+- Provide one key picture that illustrate the project. Simply save it as `featured.png` (only *.png format is allowed) in the project folder. This picture will be (a) automatically added to the project 'card' in the Research window and (b) put on top of the project description.  
+- Optionally, provide other pictures, which can be added to the project description. To do this save the relevant pictures in the project folder and add the code to load them. See the template for examples.
+- Inform Michiel (michiel.vandijk@wur.nl) and/or Thijs (thijs.delange@wur.nl) you have want to add a new project.
+
+
+## Publications
+
+The website lists all MAGNET-related publications. To add a new publication, please provide/do the following:
+
+- Add relevant information about the publication in the following file: `MAGNET - Documents\6 - MAGNET website\_publications_to_be_added\list_of_publications_to_be_added.docx`
+- When possible __always__ add the DOI of the publication as this makes it possible to automatically retreive all relevant information from a global publications database. 
+- Inform Michiel (michiel.vandijk@wur.nl) and/or Thijs (thijs.delange@wur.nl) you have want to add a new publication.
+
+
+## News
+
+The website shows brief information on MAGNET-related news, such as the launch of a new report that features MAGNET-based results, the acquisition of a new project and reference to MAGNET research in the media. To add a new news item, please provide/do the following:
+
+- Create a new subfolder on the sharepoint: `MAGNET - Documents\6 - MAGNET website\_news_to_be_added`. Use the following structure for naming the folder; start with the date using this format: YYYY-MM-DD-short-description. Use '-' instead of spaces.
+- Fill out the news template file that can be found here: `MAGNET - Documents\6 - MAGNET website\templates\news\index.en.md`and save it in the project folder you just created. Please do NOT change the name of the `index.en.md` file - it has to be named index.en.md. *.md files are text files that can edited with Notepad, Word or simular word processing software.  
+- Provide one key picture that illustrate the project. Simply save it as `featured.png` (only *.png format is allowed) in the project folder. This picture will be (a) automatically added to the news 'card' in the Research window and (b) put on top of the news item.  
+- Optionally, provide other pictures, which can be added to the project description. To do this save the relevant pictures in the project folder and add the code to load them. See the template for examples.
+- Inform Michiel (michiel.vandijk@wur.nl) and/or Thijs (thijs.delange@wur.nl) you have want to add a new project.
+
+
+
+## Team member entry
+
+The website shows the picture and key information (e.g. name, position, key interests, bio, cv, links to research gate, WUR personal website etc.) of all MAGNET team members. To add a new team member or update your information, please provide/do the following:
+
+Create a new subfolder on the sharepoint: `MAGNET - Documents\6 - MAGNET website\team` in case you are a new team member or navigate to the folder with your name if you want to update your personal information. 
+- In case of new team members, fill out the team member template file that can be found here: `MAGNET - Documents\6 - MAGNET website\emplates\team_member\_index.md` and save it in the project folder you just created. Please do NOT change the name of the `_index.md` file - it has to be named _index.md. *.md files are text files that can edited with Notepad, Word or simular word processing software.  
+- Provide one key picture that illustrate the project. Simply save it as `featured.png` (only *.png format is allowed) in the project folder. This picture will be (a) automatically added to the news 'card' in the Research window and (b) put on top of the news item.  
+- Optionally, provide other pictures, which can be added to the project description. To do this save the relevant pictures in the project folder and add the code to load them. See the template for examples.
+- Inform Michiel (michiel.vandijk@wur.nl) and/or Thijs (thijs.delange@wur.nl) you have want to add a new project.
+
+
+- Add your details in the template found here and save it under your initials (without dots, etc) in this folder
 
 To create a first version of the website, we need to following four files from each team member (also see table):
 
