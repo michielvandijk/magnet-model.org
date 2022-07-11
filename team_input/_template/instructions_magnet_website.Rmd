@@ -84,6 +84,7 @@ The website shows the picture and key information (e.g. name, position, key inte
 
 Create a new __subfolder__ on the sharepoint: `MAGNET - Documents\6 - MAGNET website\team` in case you are a new team member or navigate to the folder with your name if you want to update your personal information. 
 - In case of new team members, fill out the team member template file that can be found here: `MAGNET - Documents\6 - MAGNET website\emplates\team_member\_index.md` and save it in the project folder you just created. Please do NOT change the name of the `_index.md` file - it has to be named _index.md. *.md files are text files that can edited with Notepad, Word or simular word processing software.  
+- The template includes an entry on _interests_, which will also be printed below you picture on the main teams page. Please only use up to three bullets and use very short sentences for layout purposes.
 - Provide a picture of yourself. Simply save it as `avatar.png` (only *.png format is allowed) in your personal folder. This picture will be (a) automatically added to the team member 'card' in the team overview page and (b) put on top of your personal page.  
 - Provide your cv in .pdf format and save it as `your_name.pdf', using '_' instead of spaces. Please ensure that this file is used in the template when referring to the cv. 
 - Inform Michiel (michiel.vandijk@wur.nl) and/or Thijs (thijs.delange@wur.nl) after you have updated your profile.
