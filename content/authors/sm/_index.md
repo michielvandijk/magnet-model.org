@@ -57,7 +57,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/saeed moghayer.pdf
+  link: cv/saeed_moghayer.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
