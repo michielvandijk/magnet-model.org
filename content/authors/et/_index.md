@@ -65,7 +65,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Remove this if you are not using the People widget.
 user_groups:
-- Researchers
+- Former researchers
 
 ---
 Ewa Tabeau has a PHD in mathematical demography, MSC in statistics and econometrics, multiple international diplomas in crime and criminal intelligence analysis, and many years of experience in research on demographics, economics, and in coordination and management of complex international projects. She is also an Accredited CEDR Mediator. 
