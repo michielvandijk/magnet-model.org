@@ -6,7 +6,7 @@ title: Zuzana Smeets Kristkova
 superuser: false
 
 # Role/position/tagline
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -65,7 +65,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/zuzana_smeets_kristkova.pdf
+  link: cv/zuzana smeets kristkova.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
@@ -77,6 +77,6 @@ user_groups:
 
 ---
 
-I am a researcher in the International Policy department at [Wageningen Economic Research](https://www.wur.nl/en/Research-Results/Research-Institutes/Economic-Research.htm) and I also hold a position of assistant professor at the Faculty of Economics and Management at [Czech University of Life Sciences in Prague]
+I am a senior researcher in the International Policy department at [Wageningen Economic Research](https://www.wur.nl/en/Research-Results/Research-Institutes/Economic-Research.htm) and I also hold a position of associate professor at the Faculty of Economics and Management at [Czech University of Life Sciences in Prague]
 (https://www.pef.czu.cz/en/). 
-Working at WECR enables me to combine various research interests. In the last 8 years, I have been involved in scientific projects that measured the impact of Research and Development on productivity and economic growth, both using a Computable General Equilibrium (CGE) approach and econometric modelling. I also enjoy working on policy oriented research such as ex-ante or ex-post impact assessments of various EU policies, for instance the CAP, Fisheries & Aquaculture policy and most recently the Green Deal. Last but not least, I am interested in the broader interlinkages between food security, nutrition, health and the area of Sustainable Development Goals. My engagement in the A4NH Research Programme of the CGIAR institute allows me to investigate how various external drivers shape long-term food security in diverse developing countries and how the projected changes affect nutritional outcomes of individual households. 
+Working at WECR enables me to combine various research interests. In the last 8 years, I have been involved in scientific projects that measured the impact of Research and Development on productivity and economic growth, both using a Computable General Equilibrium (CGE) approach and econometric modelling. I also enjoy working on policy oriented research such as ex-ante or ex-post impact assessments of various EU policies, for instance the CAP, Fisheries & Aquaculture policy and most recently the Green Deal. Last but not least, I am interested in the broader interlinkages between food security, nutrition, health and the area of Sustainable Development Goals.
