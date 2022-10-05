@@ -6,7 +6,7 @@ title: Thijs de Lange
 superuser: false
 
 # Role/position/tagline
-role: Junior researcher
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:

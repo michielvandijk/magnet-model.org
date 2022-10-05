@@ -65,7 +65,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/zuzana smeets kristkova.pdf
+  link: cv/zuzana_smeets_kristkova.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
