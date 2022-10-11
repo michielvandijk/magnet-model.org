@@ -18,17 +18,22 @@ bio: Wageningen Economic Research.
 
 # Interests to show in About widget
 interests:
-- test
+- Behavioural economics
+- Dietary transitions 
+- Healthy and sustainability diets
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate - Macroeconomic assessment of circular, biobased economy
-    institution: Wagenigen Economic Research and Wageningen University
-    year: 2019- 
-  - course: Msc. in Development and Environmental Economics 
-    institution: Wageningen University and Research, Wageningen, Netherlands
-    year: 2017-2019
+  - course: PhD candidate - Development Economics
+    institution: Wageningen University
+    year: 2018-2022 
+  - course: Msc. in Economics 
+    institution: Essex University, United Kingdom
+    year: 2009-2010
+  - course: Bsc. in Economics 
+    institution: Universidad Autonoma de Nuevo Leon, Mexico
+    year: 2002-2006
   
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
