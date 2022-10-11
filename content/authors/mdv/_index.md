@@ -56,7 +56,7 @@ social:
 # Link to a PDF of your resume/CV.
 - icon: cv
   icon_pack: ai
-  link: cv/cv_marcos_dominguez.pdf
+  link: cv/marcos_dominguez.pdf
 
 # Email for Contact widget or Gravatar
 email: ""
