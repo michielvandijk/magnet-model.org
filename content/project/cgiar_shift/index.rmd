@@ -21,7 +21,7 @@ image:
 links:
 - icon: chart-line
   icon_pack: fas
-  name: FoodCost Website
+  name: Sustainable Healthy Diets Website
   url: https://www.cgiar.org/initiative/sustainable-healthy-diets/
 url_code: ""
 url_pdf: ""
