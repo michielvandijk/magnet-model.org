@@ -1,0 +1,27 @@
+---
+title: Hans van Meijl receives citation award from Web of Science
+author: Zuzana Smeets Kristkova
+date: '2022-11-28'
+slug: 
+categories: []
+
+# Add tags below in "" separated with a comma. This will be displayed below and nicely group items with the same tags.
+tags: ["Other News"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-02-11T09:47:01+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+
+
+---
+We are proud to share that Hans van Meijl, a "father"of our MAGNET CGE model, has been awarded a "Highly Cited Researcher"in 2022. Highly Cited Researchers have demonstrated significant and broad influence reflected in their publication of multiple highly cited papers over the last decade. These highly cited papers rank in the top 1% by citations for a field or fields and publication year in the Web of Science™. Of the world’s population of scientists and social scientists, Highly Cited Researchers™ are 1 in 1,000.”
+
+This is a good news for our MAGNET work and all the MAGNET team that has contributed to that. Hans can thus take over the role of Andrzej Tabeau (currently retired) who received this honor in the past years.
+
+Contact: [Hans van Meijl](/author/hans-van-meijl/)
