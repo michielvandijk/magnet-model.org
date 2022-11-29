@@ -2,8 +2,8 @@
 title: MAGNET Summer School 2022
 author: Zuzana Smeets Kristkova
 date: '2022-10-10'
-slug: 
-categories: 
+slug: magnet-summer-school
+categories: []
 
 # Add tags below in "" separated with a comma. This will be displayed below and nicely group items with the same tags.
 tags: ["MAGNET Training"]
@@ -27,7 +27,7 @@ The theoretical part of the course introduced general equilibrium theory and app
 
 ![Class_Participants](Class_Participants.jpg "Class_Participants")
 
-<![Class_Marijke](Class_Marijke.jpg "Class_Marijke")>
+![Class_Marijke](Class_Marijke.jpg "Class_Marijke")
 
 The full week MAGNET Summer School also provided the opportunity to get to know the participants and the lecturers in a more informal way.
 
