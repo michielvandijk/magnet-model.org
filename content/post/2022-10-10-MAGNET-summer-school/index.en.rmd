@@ -25,7 +25,7 @@ There were 9 participants across different European institutions that were inter
 
 The theoretical part of the course introduced general equilibrium theory and applications in a systematic way - from the basics of CGE modelling, introduction to GTAP, to specifics of MAGNET model, its modules and the potential future advancements. The practical part under the guidance of experienced MAGNET modellers provided the participants a unique opportunity to build step-by-step their own simple CGE model in Gempack software.
 
-![](Class_Participants.jpg)
+
 
 ![](Class_Marijke.jpg)
 
