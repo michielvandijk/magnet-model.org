@@ -1,0 +1,49 @@
+---
+##########################################################################################
+# TEMPLATE FOR PROJECT DESCRIPTIONS 
+# Example for IFAD, see https://www.magnet-model.eu/project/ifad/
+# # indicates a comment so this part of the content can be safely removed.
+##########################################################################################
+
+title: PATHWAYS Identifying and increasing sustainable practices along the supply and production chains of European livestock 
+tags: ["Livestock Innovation"]
+date: "2022-11-29T00:00:00Z"
+
+# Optional external URL for project (note that this will create a direct link and replaces the project detail page).
+external_link: ""
+
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# No need to add anything here, unless you want to show the featured.png picture only in list of projects but
+# not on top of the project description (preview_only: true). You can also add a caption to your featured.png that
+# will be placed on top.
+image:
+  preview_only: false
+  placement: ""
+  focal_point: ""
+  caption: ""
+
+# Add relevant links here. They will be added as icons on top - see examples. If there are no links use ""  
+links:
+- icon: chart-line
+  icon_pack: fas
+  name: Pathways Website
+  url: https://pathways-project.com/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: ""
+
+---
+With the aim of reducing environmental impacts while addressing societal demands for safe, nutritious and affordable meat and dairy products, PATHWAYS is about identifying and increasing sustainable practices along the supply and production chains of the European livestock sector. Within the PATHWAYS project, the macroeconomic impact of livestock innovation at EU and Member State will be assessed using the MAGNET model. The circular economy module in MAGNET will be extended by adding key material flows such as manure, connecting livestock sectors with crop sectors and the use of food loss and waste (from producers, food processing, retail and food service sectors) as new sources of animal feed. In line with the prevailing projections and using the extended MAGNET model, the business-as-usual scenario from the Shared Socioeconomic Pathway 2 (SSP2) will be enriched with new insights on future livestock sector developments (T2.2) as well as insights on farm practices and typical value chains for livestock products (WPs 3-7). Embedding these insights into MAGNET will capture the interaction between the production-specific developments of the livestock sector and the developments in the rest of the economy within a global context. This will enhance the understanding of livestock’s role in relation to economic developments and the circular economy. MAGNET simulation results will be presented using interactive visualisations in dashboards to highlight how indicators are affected by key drivers and the relative contributions of macroeconomic developments (e.g., income/capita and population) as well as interventions or policies. 
+!
+**
+
+Contact: [Heleen Bartelings](/author/heleen-bartelings/)
