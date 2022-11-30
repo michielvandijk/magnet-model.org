@@ -1,0 +1,28 @@
+---
+title: BrightSpace project launched
+author: Michiel van Dijk
+date: '2022-30-11'
+slug: brightspace-project-launched
+categories: []
+
+# Add tags below in "" separated with a comma. This will be displayed below and nicely group items with the same tags.
+tags: ["planetary boundaries", "climate change"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-30-11'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+A new project entitled the BrightSpace Project funded under Horizon Europe is launched to design a roadmap for effective and sustainable strategies for assessing and addressing the challenges of EU agriculture to navigate within a Safe and Just Operating Space.
+
+At the kick-off meeting, hosted by Wageningen Economic Research between 30 November and 1 December 2022, the partners discuss how the project can address current challenges to policymakers in the EU and draw up a road map for the first year of the project. To ensure that the project meets the EU’s policy needs in the short- and long-term, representatives of the European Commission, as well as noted experts in agricultural policy and impact assessment will participate in the kick-off meeting. An important point on the agenda is to discuss how recent developments may impact on the proposed research agenda.
+
+"To assess the impact of the current COVID and Ukraine crises and reverse unfavourable long-term trends related to EU agriculture, there is an urgent need to significantly change agriculture related policies. Policy makers and opinion leaders, however, often lack sufficient information to gauge the likely effects of a Safe and Just Operating Space crises on their country. Thus, they miss the opportunity to identify, design, and implement policy actions that can best avoid short- and long-term risk and take advantage of opportunities." concludes Hans van Meijl, Brightspace scientific coordinator and chief economist at Wageningen Economic Research.
+
+The MAGNET model will be used in several work packages to assess the EU agriculture Safe and Just Operating Space.
