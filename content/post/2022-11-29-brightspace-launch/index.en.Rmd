@@ -10,7 +10,7 @@ tags: ["planetary boundaries", "climate change"]
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-30-11'
+lastmod: '2022-30-11T12:47:01+01:00'
 featured: yes
 image:
   caption: ''
