@@ -5,7 +5,7 @@
 # # indicates a comment so this part of the content can be safely removed.
 ##########################################################################################
 
-title: FOODWASTE@MSs 
+title: Foodwaste at Member State level 
 tags: ["food waste"]
 date: "2022-11-29T00:00:00Z"
 
