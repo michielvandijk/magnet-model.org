@@ -1,0 +1,24 @@
+---
+title: MAGNET model represented at the Wageningen model and data steward workshop
+author: Jason Levin-Koopman
+date: '2022-12-06'
+slug: MAGNET-model-represented-at-the-Wageningen-model-and-data-steward-workshop
+categories: []
+
+# Add tags below in "" separated with a comma. This will be displayed below and nicely group items with the same tags.
+tags: ["MAGNET model", "Wageningen model and data steward workshop"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-12-06T14:58:01+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Jason Levin-Koopman from the MAGNET team presented the MAGNET model and operational philosophy to an audience of modelers and data stewards from Wageningen UR, during the [Wageningen model and data steward workshop](https://www.wur.nl/en/value-creation-cooperation/collaborating-with-wur-1/wdcc/show-wdcc/wageningen-model-datasteward-workshop.htm).
+
+In addition to presenting the model itself, the presentation focused on the importance of teamwork in maintaining a flexible module based, continuously evolving model and how this way of operating can assist in collaborating across models and disciplines. 
