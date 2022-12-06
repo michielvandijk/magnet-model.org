@@ -2,15 +2,15 @@
 title: MAGNET model represented at the Wageningen model and data steward workshop
 author: Jason Levin-Koopman
 date: '2022-12-06'
-slug: MAGNET-model-represented-at-the-Wageningen-model-and-data-steward-workshop
+slug: magnet-model-presented-at-workshop
 categories: []
 
 # Add tags below in "" separated with a comma. This will be displayed below and nicely group items with the same tags.
-tags: ["MAGNET model", "Wageningen model and data steward workshop"]
+tags: ["magnet model"]
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-12-06T14:58:01+01:00'
+lastmod: '2022-12-06T12:03:01+01:00'
 featured: no
 image:
   caption: ''
