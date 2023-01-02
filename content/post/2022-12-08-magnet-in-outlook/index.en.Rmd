@@ -1,0 +1,25 @@
+---
+title: MAGNET analysis featured in EU Agricultural Outlook report
+author: Michiel van Dijk
+date: 2022-12-08
+slug: magnet-analysis-featured-in-eu-agricultural-outlook
+categories: []
+tags:
+  - MAGNET
+  - EU
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-26T14:54:28+01:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+Today, the European Commission published the yearly EU agricultural outlook report, which presents the outlook for major EU agricultural markets, income and environment from now until 2032. This time, the report includes also a short chapter analysing some dimensions of food security using a selected set of indicators, provided also by the MAGNET model (see section 5). 
+
+Source: https://agriculture.ec.europa.eu/data-and-analysis/markets/outlook/medium-term_en
+
+
