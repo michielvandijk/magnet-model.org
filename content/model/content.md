@@ -52,7 +52,7 @@ The model includes trade between all regions in the model and accounts for trade
 
 Prices of goods and of land, labour and capital in each region adjust to assure that both national and international demand and supply are equal, hence the term general equilibrium model. Thus, when a policy simulation is run, for example to analyze the impacts of lowering tariffs between regions, the model computes by sector the production, consumption and trade (both imports and exports) as well as price levels that result in equilibrium in national and international markets.
 
-More information on the standard GTAP model can be found on the [GTAP website](www.gtap.org).
+More information on the standard GTAP model can be found on the [GTAP website](https://www.gtap.agecon.purdue.edu/).
 
 ## MAGNET Philosophy
 
