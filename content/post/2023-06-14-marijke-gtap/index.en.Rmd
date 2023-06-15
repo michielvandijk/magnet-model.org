@@ -1,0 +1,29 @@
+---
+##########################################################################################
+# TEMPLATE FOR NEWS ITEMS 
+# Example for BRIGHTSPACE, see https://www.magnet-model.eu/post/brightspace-proposal-has-reached-the-stage-of-grant-agreement-preparation/
+# # indicates a comment so this part of the content can be safely removed.
+##########################################################################################
+
+title: Marijke Kuiper inducted to the GTAP Research Fellow Hall of Fame.
+author: Michiel van Dijk
+date: '2023-06-14'
+slug: marijke-kuiper-hall-of-fame
+categories: []
+
+# Add tags below in "" separated with a comma. This will be displayed below and nicely group items with the same tags.
+tags: ["GTAP"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-06-15'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+We are very proud that our colleague [Marijke Kuiper](/author/marijke-kuiper/) was inducted into the [GTAP Research Fellow Hall of Fame](https://www.gtap.agecon.purdue.edu/network/hall_of_fame.asp) at the 26th Annual Conference on Global Economic Analysis that took place in Bordeaux, from 14 to 16 June. The GTAP Hall of fame lists all persons that provided significant and continuing contributions to the development of GTAP. Congrats Marijke!
+
