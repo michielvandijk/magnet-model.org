@@ -18,10 +18,10 @@ bio: Wageningen Economic Research.
 
 # Interests to show in About widget
 interests:
-- Applied general equilibrium modelling
-- Energy and climate change
+- General equilibrium modelling
+- Trade and investment
+- Climate change and energy
 - Food and nutrition security
-- International trade
 
 # Education to show in About widget
 education:
@@ -60,4 +60,4 @@ user_groups:
 
 ---
 
-I hold a PhD in economics and am currently a research economist in the International Policy department at Wageningen Economic Research. Within the modelling team, my research has been focused on working with MAGNET, a computable general equilibrium (CGE) model of the world economy and using the MAGNET model to conduct research related to economic, environmental and policy issues. Recently, I have worked on a number of MAGNET-based studies including the HS level trade modelling, investment modelling, trade policy and climate change, and food and nutrition security analyses.
+David Cui holds a PhD in economics and has extensive research experience in economic and policy issues related to trade, investment, climate change, energy, and food security. David has over ten years of CGE modelling experience working with several GTAP-based CGE models such as MAGNET, GTAP-BIO, and GTEM. He is currently undertaking diverse CGE work with the MAGNET model ranging from various scenario and database work to multiple module and model extensions. He led major enhancements of MAGNET’s recursive dynamics mechanism and consolidations of the model’s baseline. He also provided CGE training and support to new researchers inside and outside the organization.

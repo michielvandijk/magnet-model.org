@@ -35,7 +35,7 @@ options(digits = 4)
 source(here::here("support/update_publications/bibtex_2_hugo.R"))
 
 # Set input and output file
-bibfile <- "C:/data/mendeley/MAGNET_pubs.bib"
+bibfile <- "C:/Data/zotero/magnet-publications.bib"
 outfold   <- here::here("content/publication/")
 
 # process
